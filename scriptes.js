@@ -151,8 +151,8 @@ btn.addEventListener('click', () => {
       <div class="main-desc">
         Erhalten Sie von uns Angebote und Einladungen zu Veranstaltungen in Ihrer Nähe, damit Sie eine besonders hohe Chance haben, sich zu verlieben!<br>Neugierig geworden?
       </div>
-      <button class="final-btn" id="accept-btn" style="margin: 30px auto 0;">Annehmen</button><br>
-      <button class="final-link" id="skip-btn" style="margin: 0 auto 0;">Überspringen</button>
+      <button class="final-btn" id="accept-btn" style="margin: 90px auto 0;">Annehmen</button><br>
+      <button class="final-link" id="skip-btn" style="margin: 30px auto 0;">Überspringen</button>
     `;
     helper.innerHTML = '&nbsp;';
 
